@@ -1,13 +1,13 @@
-package com.zjh.dailytest;
+package com.zjh.daily_test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DailytestApplication {
+public class DailyTestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DailytestApplication.class, args);
+        SpringApplication.run(DailyTestApplication.class, args);
     }
 
 }
