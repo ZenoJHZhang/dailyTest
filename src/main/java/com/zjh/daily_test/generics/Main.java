@@ -1,6 +1,5 @@
 package com.zjh.daily_test.generics;
 
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
